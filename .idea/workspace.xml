@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4364363b-ea36-4ec4-9cb9-5aeb7042ba7d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/the_weather/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/the_weather/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/weather/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,9 +54,9 @@
       <list>
         <option value="$PROJECT_DIR$/weather/forms.py" />
         <option value="$PROJECT_DIR$/weather/templates/weather/weather.html" />
-        <option value="$PROJECT_DIR$/weather/views.py" />
         <option value="$PROJECT_DIR$/the_weather/settings.py" />
         <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/weather/views.py" />
       </list>
     </option>
   </component>
@@ -147,17 +144,17 @@
       <workItem from="1544117865323" duration="2649000" />
       <workItem from="1544959974893" duration="399000" />
       <workItem from="1544960404572" duration="196000" />
-      <workItem from="1544976837963" duration="3732000" />
+      <workItem from="1544976837963" duration="6927000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6976000" />
+    <option name="totallyTimeSpent" value="10171000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18229954" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18229954" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -227,15 +224,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/weather/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="das://44828189-419a-42c4-838c-af9cece515f6/schema/main/table/weather_city">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -243,19 +231,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/the_weather/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="109" lean-forward="true" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/weather/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        <state relative-caret-position="241">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/the_weather/settings.py">
+    <entry file="file://$PROJECT_DIR$/weather/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-306" />
+        <state>
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>
